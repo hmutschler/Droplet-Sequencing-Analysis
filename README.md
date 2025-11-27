@@ -1,4 +1,4 @@
-Custom code and scripts for the publication **"Recovery and deep sequencing of short ssDNA pools from transient, fuel-dependent coacervate droplets"** by Corbin Machatzke, Anna-Lena Holtmannspoetter, Hannes Mutschler and Job Boekhoven (to be published).
+Custom code and scripts for the publication **"DNA affects the phenotype of fuel-dependent coacervate droplets"** by Corbin Machatzke, Anna-Lena Holtmannspoetter, Hannes Mutschler and Job Boekhoven (to be published).
 
 The bash scripts (`.sh`) can be run in a bash environment and allow for processing of raw sequencing data. The Python scripts (`.ipynb`; `.py`) can be run in Python (we used Jupyter Notebook) and will generate the relevant output data and figures used in the publication.
 
